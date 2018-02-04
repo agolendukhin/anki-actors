@@ -142,6 +142,7 @@
         "mel-gibson.jpg", 
         "william-holden.jpg", 
         "charlton-heston.jpeg", 
+        "nicolas-cage.jpg", 
         "jeremy-irons.jpeg", 
         "spencer-tracy.jpeg", 
         "gregory-peck.jpg", 
@@ -161,6 +162,58 @@
     "mid": "1516001506623", 
     "name": "anki-actors", 
     "note_models": [
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "efb01065-09d4-11e8-b252-ccb0da1b3399", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "flds": [
+                {
+                    "font": "Liberation Sans", 
+                    "media": [], 
+                    "name": "Front", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Back", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Basic-7113b", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Card 1", 
+                    "ord": 0, 
+                    "qfmt": "{{Front}}"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
         {
             "__type__": "NoteModel", 
             "crowdanki_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
@@ -187,7 +240,7 @@
             ], 
             "latexPost": "\\end{document}", 
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Basic", 
+            "name": "Basic-2c8d7", 
             "req": [
                 [
                     0, 
@@ -1449,6 +1502,18 @@
             "flags": 0, 
             "guid": "JP+z4R9avX", 
             "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"nicolas-cage.jpg\" />", 
+                "Nicolas Cage"
+            ], 
+            "flags": 0, 
+            "guid": "cXbM)j/F.e", 
+            "note_model_uuid": "efb01065-09d4-11e8-b252-ccb0da1b3399", 
             "tags": []
         }
     ]
