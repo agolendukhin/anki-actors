@@ -128,6 +128,7 @@
         "tommy-lee-jones.jpeg", 
         "buston-keaton.jpg", 
         "johny-depp.jpg", 
+        "james-dean.jpeg", 
         "jim-carrey.jpg", 
         "burt-lancaster.jpeg", 
         "heath-ledger.jpg", 
@@ -149,7 +150,7 @@
         "christopher-plummer.jpg", 
         "william-hurt.jpg", 
         "robert-mitchum.jpg", 
-        "james-dean.jpeg", 
+        "kevin-costner.jpg", 
         "Richard-Burton.jpg", 
         "morgan-freeman.jpeg", 
         "john-goodman.jpeg", 
@@ -1435,6 +1436,18 @@
             ], 
             "flags": 0, 
             "guid": "zrajI&#KBg", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"kevin-costner.jpg\" />", 
+                "Kevin Costner"
+            ], 
+            "flags": 0, 
+            "guid": "JP+z4R9avX", 
             "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
             "tags": []
         }
