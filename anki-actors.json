@@ -1,0 +1,1416 @@
+{
+    "__type__": "Deck", 
+    "children": [], 
+    "crowdanki_uuid": "27e5fb98-09ac-11e8-8ace-3859f97cda63", 
+    "deck_config_uuid": "27e78b48-09ac-11e8-8ace-3859f97cda63", 
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig", 
+            "autoplay": true, 
+            "crowdanki_uuid": "27e78b48-09ac-11e8-8ace-3859f97cda63", 
+            "dyn": false, 
+            "lapse": {
+                "delays": [
+                    10
+                ], 
+                "leechAction": 0, 
+                "leechFails": 8, 
+                "minInt": 1, 
+                "mult": 0.0
+            }, 
+            "maxTaken": 60, 
+            "name": "Actors options group", 
+            "new": {
+                "bury": true, 
+                "delays": [
+                    1, 
+                    10
+                ], 
+                "initialFactor": 2500, 
+                "ints": [
+                    1, 
+                    4, 
+                    7
+                ], 
+                "order": 1, 
+                "perDay": 20, 
+                "separate": true
+            }, 
+            "replayq": true, 
+            "rev": {
+                "bury": true, 
+                "ease4": 1.3, 
+                "fuzz": 0.05, 
+                "ivlFct": 1.0, 
+                "maxIvl": 36500, 
+                "minSpace": 1, 
+                "perDay": 100
+            }, 
+            "timer": 0
+        }
+    ], 
+    "desc": "", 
+    "dyn": 0, 
+    "extendNew": 10, 
+    "extendRev": 50, 
+    "media_files": [
+        "bill-murray.jpeg", 
+        "christian-bale.jpg", 
+        "javier-bardem.jpeg", 
+        "gene-kelly.jpeg", 
+        "tom-cruise.jpg", 
+        "henrey-fonda.jpg", 
+        "alpacino.jpg", 
+        "james-cagney.jpeg", 
+        "ian-mckellen.jpg", 
+        "clint-eastwood.jpg", 
+        "geoffrey-rush.jpeg", 
+        "joaquin-phoenix.jpeg", 
+        "bogart-humphrey.jpg", 
+        "joe-pesci.jpg", 
+        "charles-laughton.jpeg", 
+        "jamie-foxx.jpeg", 
+        "robert-duvall.jpeg", 
+        "anthony-quinn.JPG", 
+        "robin-williams.jpg", 
+        "robertdeniro.jpg", 
+        "matthew-mcconaughey.jpg", 
+        "woody-allen.jpeg", 
+        "daniel-day-lewis.jpeg", 
+        "martin-sheen.jpeg", 
+        "liam-neeson.jpg", 
+        "robert-downey-jr.jpeg", 
+        "philip-seymour-hoffman.jpeg", 
+        "peter-o-toole.jpeg", 
+        "alec-guiness.jpg", 
+        "christoph waltz.jpeg", 
+        "charlie-chaplin.jpeg", 
+        "michael-caine.jpeg", 
+        "Clark_Gable.JPG", 
+        "dustin-hoffman.jpg", 
+        "alan-rickman.jpeg", 
+        "john-wayne.jpeg", 
+        "jason-robards.jpg", 
+        "jack-lemmon.jpeg", 
+        "jacknicholson.jpeg", 
+        "peter-finch.jpeg", 
+        "michael-douglas.jpg", 
+        "gary-oldman.jpeg", 
+        "james-stewart.jpg", 
+        "albert-finney.jpeg", 
+        "matt-damon.jpg", 
+        "alan-arkin.jpg", 
+        "benico-del-toro.jpeg", 
+        "leonardo-dicaprio.jpg", 
+        "colin-firth.jpeg", 
+        "tom-hanks.jpeg", 
+        "ben-kingsley.jpg", 
+        "sean-connery.jpg", 
+        "samuel-l-jackson.jpeg", 
+        "gene-hackman.jpg", 
+        "bradpitt.jpeg", 
+        "edward-g-robinson.jpeg", 
+        "marlonbrando.jpg", 
+        "hugh-jackman.jpg", 
+        "don-cheadle.jpeg", 
+        "paul-newman.jpeg", 
+        "robert-redford.jpeg", 
+        "christopher-walken.jpg", 
+        "russel-crowe.jpg", 
+        "steve-mcqueen.jpeg", 
+        "ralph-fiennes.jpeg", 
+        "sean-penn.jpg", 
+        "laurence-oliver.jpg", 
+        "denzel-washington.jpeg", 
+        "harrison-ford.jpg", 
+        "kirk-douglas.JPG", 
+        "tommy-lee-jones.jpeg", 
+        "buston-keaton.jpg", 
+        "johny-depp.jpg", 
+        "jim-carrey.jpg", 
+        "burt-lancaster.jpeg", 
+        "heath-ledger.jpg", 
+        "cary-grant.jpg", 
+        "will-smith.jpg", 
+        "anthony-hopkins.jpg", 
+        "george-s.scott.JPG", 
+        "sidney-poitier.jpg", 
+        "jeff-bridges.jpg", 
+        "kevin-spacey.jpeg", 
+        "mel-gibson.jpg", 
+        "william-holden.jpg", 
+        "charlton-heston.jpeg", 
+        "jeremy-irons.jpeg", 
+        "spencer-tracy.jpeg", 
+        "gregory-peck.jpg", 
+        "edward-norton.jpeg", 
+        "peter-sellers.jpeg", 
+        "christopher-plummer.jpg", 
+        "robert-mitchum.jpg", 
+        "james-dean.jpeg", 
+        "Richard-Burton.jpg", 
+        "morgan-freeman.jpeg", 
+        "john-goodman.jpeg", 
+        "orson-welles.jpeg", 
+        "jon-voight.jpg", 
+        "gary-cooper.jpeg"
+    ], 
+    "mid": "1516001506623", 
+    "name": "anki-actors", 
+    "note_models": [
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "flds": [
+                {
+                    "font": "Liberation Sans", 
+                    "media": [], 
+                    "name": "Front", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Back", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Basic", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Card 1", 
+                    "ord": 0, 
+                    "qfmt": "{{Front}}"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }
+    ], 
+    "notes": [
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"bradpitt.jpeg\" />", 
+                "Brad Pitt"
+            ], 
+            "flags": 0, 
+            "guid": "C5E|7@VD0m", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"robertdeniro.jpg\" />", 
+                "Robert Anthony De Niro Jr"
+            ], 
+            "flags": 0, 
+            "guid": "s]CdL&>HI{", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"jacknicholson.jpeg\" />", 
+                "Jack Nicholson"
+            ], 
+            "flags": 0, 
+            "guid": "Q3Hnmw0oke", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"marlonbrando.jpg\" />", 
+                "Marlon Brando"
+            ], 
+            "flags": 0, 
+            "guid": "v&pU8km08C", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"alpacino.jpg\" />", 
+                "Al pacino"
+            ], 
+            "flags": 0, 
+            "guid": "M?&Q},Zje;", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"daniel-day-lewis.jpeg\" />", 
+                "Daniel Day-Lewis"
+            ], 
+            "flags": 0, 
+            "guid": "wMGRUkx#cy", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"dustin-hoffman.jpg\" />", 
+                "Dustin Hoffman"
+            ], 
+            "flags": 0, 
+            "guid": "Lw4yJ`V3pd", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"tom-hanks.jpeg\" />", 
+                "Tom Hanks"
+            ], 
+            "flags": 0, 
+            "guid": "oPZ/y}etB<", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"paul-newman.jpeg\" />", 
+                "Paul Newman"
+            ], 
+            "flags": 0, 
+            "guid": "w`-n0g)qd-", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"denzel-washington.jpeg\" />", 
+                "Denzel Washington"
+            ], 
+            "flags": 0, 
+            "guid": "w}Apxk/N16", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"spencer-tracy.jpeg\" />", 
+                "Spencer Tracy"
+            ], 
+            "flags": 0, 
+            "guid": "ia-*Ps9:!e", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"jack-lemmon.jpeg\" />", 
+                "Jack Lemmon"
+            ], 
+            "flags": 0, 
+            "guid": "s(~y*1s:r:", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"michael-caine.jpeg\" />", 
+                "Michael Caine"
+            ], 
+            "flags": 0, 
+            "guid": "lBwrV:!s]^", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"james-stewart.jpg\" />", 
+                "James Stewart"
+            ], 
+            "flags": 0, 
+            "guid": "HkVxzz%G9V", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"robin-williams.jpg\" />", 
+                "Robin Williams"
+            ], 
+            "flags": 0, 
+            "guid": "c;r{~N_)}.", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"robert-duvall.jpeg\" />", 
+                "Robert Duvall"
+            ], 
+            "flags": 0, 
+            "guid": "g^<n<tO5!;", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"sean-penn.jpg\" />", 
+                "Sean Penn"
+            ], 
+            "flags": 0, 
+            "guid": "tw<piFacKQ", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"jeff-bridges.jpg\" />", 
+                "Jeff Bridges"
+            ], 
+            "flags": 0, 
+            "guid": "o_ig>Z]3U_", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"sidney-poitier.jpg\" />", 
+                "Sidney Poitier"
+            ], 
+            "flags": 0, 
+            "guid": "o~?iFu~!QH", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"peter-o-toole.jpeg\" />", 
+                "Peter O'Toole"
+            ], 
+            "flags": 0, 
+            "guid": "HyL0N]_ne*", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"charlie-chaplin.jpeg\" />", 
+                "Charlie Chaplin"
+            ], 
+            "flags": 0, 
+            "guid": "n)c7hag#r=", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"ben-kingsley.jpg\" />", 
+                "Ben Kingsley"
+            ], 
+            "flags": 0, 
+            "guid": "z|>2YQ.e+^", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"philip-seymour-hoffman.jpeg\" />", 
+                "Philip Seymour Hoffman"
+            ], 
+            "flags": 0, 
+            "guid": "dmvKm`7%7!", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"leonardo-dicaprio.jpg\" />", 
+                "Leonardo DiCaprio"
+            ], 
+            "flags": 0, 
+            "guid": "jG:&`A;CAb", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"russel-crowe.jpg\" />", 
+                "Russel Crowe"
+            ], 
+            "flags": 0, 
+            "guid": "Pyq9<Z81DK", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"kevin-spacey.jpeg\" />", 
+                "Kevin Spacey"
+            ], 
+            "flags": 0, 
+            "guid": "Pq?/wat{G0", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"bogart-humphrey.jpg\" />", 
+                "Humphey Bogart"
+            ], 
+            "flags": 0, 
+            "guid": "sFn`}$^(X]", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"gregory-peck.jpg\" />", 
+                "Gregory Peck"
+            ], 
+            "flags": 0, 
+            "guid": "hPTkZ<>0:L", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"Clark_Gable.JPG\" />", 
+                "Clark Gable"
+            ], 
+            "flags": 0, 
+            "guid": "M7?)7U!,DB", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"gary-cooper.jpeg\" />", 
+                "Gary Cooper"
+            ], 
+            "flags": 0, 
+            "guid": "q-|,Ap:s|~", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"george-s.scott.JPG\" />", 
+                "George C.Scott"
+            ], 
+            "flags": 0, 
+            "guid": "m&UNs(*&]`", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"charles-laughton.jpeg\" />", 
+                "Charles Laughton"
+            ], 
+            "flags": 0, 
+            "guid": "v6a`H;=_=9", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"anthony-quinn.JPG\" />", 
+                "Anthony Quinn"
+            ], 
+            "flags": 0, 
+            "guid": "pYNWAm*:}F", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"peter-sellers.jpeg\" />", 
+                "Peter Sellers"
+            ], 
+            "flags": 0, 
+            "guid": "D5dJJs;~Q?", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"james-cagney.jpeg\" />", 
+                "James Cagney"
+            ], 
+            "flags": 0, 
+            "guid": "A>]%ZGgvE8", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"peter-finch.jpeg\" />", 
+                "Peter Finch"
+            ], 
+            "flags": 0, 
+            "guid": "lcWf;zch<t", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"henrey-fonda.jpg\" />", 
+                "Henrey Fonda"
+            ], 
+            "flags": 0, 
+            "guid": "pp59CvS0jQ", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"cary-grant.jpg\" />", 
+                "Cary Grant"
+            ], 
+            "flags": 0, 
+            "guid": "xgHRk>X,S+", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"Richard-Burton.jpg\" />", 
+                "Richard Burton"
+            ], 
+            "flags": 0, 
+            "guid": "AeDY9`w@Jj", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"burt-lancaster.jpeg\" />", 
+                "Burt Lancaster"
+            ], 
+            "flags": 0, 
+            "guid": "EC6S|!2H`m", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"william-holden.jpg\" />", 
+                "William Holden"
+            ], 
+            "flags": 0, 
+            "guid": "N_gi4t+o[", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"john-wayne.jpeg\" />", 
+                "John Wayne"
+            ], 
+            "flags": 0, 
+            "guid": "G`@VraB/qg", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"kirk-douglas.JPG\" />", 
+                "Kirk Douglas"
+            ], 
+            "flags": 0, 
+            "guid": "dJ57F0y-/^", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"alec-guiness.jpg\" />", 
+                "Alec Guinness"
+            ], 
+            "flags": 0, 
+            "guid": "Qd#lku)(m)", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"christopher-plummer.jpg\" />", 
+                "Christopher Plummer"
+            ], 
+            "flags": 0, 
+            "guid": "tuzL[<~q|7", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"tommy-lee-jones.jpeg\" />", 
+                "Tommy Lee Jones"
+            ], 
+            "flags": 0, 
+            "guid": "L}^P&x,].N", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"anthony-hopkins.jpg\" />", 
+                "Anthony Hopkins"
+            ], 
+            "flags": 0, 
+            "guid": "RhD/xE/fuP", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"laurence-oliver.jpg\" />", 
+                "Laurence Oliver"
+            ], 
+            "flags": 0, 
+            "guid": "I}]C[(AU&C", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"morgan-freeman.jpeg\" />", 
+                "Morgan Freeman"
+            ], 
+            "flags": 0, 
+            "guid": "Q9GXNiv39.", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"clint-eastwood.jpg\" />", 
+                "Clint Eastwood"
+            ], 
+            "flags": 0, 
+            "guid": "f3wigOePAZ", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"gene-hackman.jpg\" />", 
+                "Gene Hackman"
+            ], 
+            "flags": 0, 
+            "guid": "M(lO2t)_k{", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"jason-robards.jpg\" />", 
+                "Jason Robards"
+            ], 
+            "flags": 0, 
+            "guid": "H-f1h)>5Gj", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"sean-connery.jpg\" />", 
+                "Sean Connery"
+            ], 
+            "flags": 0, 
+            "guid": "w3I.=9)$J$", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"alan-arkin.jpg\" />", 
+                "Alan Arkin"
+            ], 
+            "flags": 0, 
+            "guid": "LM*:RhMj9z", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"christopher-walken.jpg\" />", 
+                "Christopher Walken"
+            ], 
+            "flags": 0, 
+            "guid": "KUv1:G$Hvp", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"joe-pesci.jpg\" />", 
+                "Joe Pesci"
+            ], 
+            "flags": 0, 
+            "guid": "hI`]FTdXxv", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"ian-mckellen.jpg\" />", 
+                "Ian McKellen"
+            ], 
+            "flags": 0, 
+            "guid": "3*:mpo}Mv", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"michael-douglas.jpg\" />", 
+                "Michael Douglas"
+            ], 
+            "flags": 0, 
+            "guid": "BBNSWY0iUX", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"jon-voight.jpg\" />", 
+                "Jon Voight"
+            ], 
+            "flags": 0, 
+            "guid": "e})hS9-LY[", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"albert-finney.jpeg\" />", 
+                "Albert Finney"
+            ], 
+            "flags": 0, 
+            "guid": "J{7HhPO|9^", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"geoffrey-rush.jpeg\" />", 
+                "Geoffrey Rush"
+            ], 
+            "flags": 0, 
+            "guid": "G^]wk<M03c", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"jeremy-irons.jpeg\" />", 
+                "Jeremy Irons"
+            ], 
+            "flags": 0, 
+            "guid": "M$K2OKl1Wp", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"javier-bardem.jpeg\" />", 
+                "Javier Bardem"
+            ], 
+            "flags": 0, 
+            "guid": "lPFmA%=&z%", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"heath-ledger.jpg\" />", 
+                "Heath Ledger"
+            ], 
+            "flags": 0, 
+            "guid": "e*,F+?MyBc", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"christoph waltz.jpeg\" />", 
+                "Christoph Waltz"
+            ], 
+            "flags": 0, 
+            "guid": "e`i{X>aToP", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"ralph-fiennes.jpeg\" />", 
+                "Ralph Fiennes"
+            ], 
+            "flags": 0, 
+            "guid": "PI[fsd8{9C", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"johny-depp.jpg\" />", 
+                "Johny Depp"
+            ], 
+            "flags": 0, 
+            "guid": "hHu[(P`~&r", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"benico-del-toro.jpeg\" />", 
+                "Benico Del Toro"
+            ], 
+            "flags": 0, 
+            "guid": "mjJQHVODS^", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"jamie-foxx.jpeg\" />", 
+                "Jamie Foxx"
+            ], 
+            "flags": 0, 
+            "guid": "i|P(Mx3T)F", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"joaquin-phoenix.jpeg\" />", 
+                "Joaquin Phoenix"
+            ], 
+            "flags": 0, 
+            "guid": "rHhfzg.eHD", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"colin-firth.jpeg\" />", 
+                "Colin Firth"
+            ], 
+            "flags": 0, 
+            "guid": "ML*a5{Vm#s", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"matthew-mcconaughey.jpg\" />", 
+                "Matthew McConaughey"
+            ], 
+            "flags": 0, 
+            "guid": "K]`ql>#=,v", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"christian-bale.jpg\" />", 
+                "Christian Bale"
+            ], 
+            "flags": 0, 
+            "guid": "q<S>.x0l12", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"gary-oldman.jpeg\" />", 
+                "Gary Oldman"
+            ], 
+            "flags": 0, 
+            "guid": "Ph3BrzmB]0", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"edward-norton.jpeg\" />", 
+                "Edward Norton"
+            ], 
+            "flags": 0, 
+            "guid": "z9AR1+:{U_", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"tom-cruise.jpg\" />", 
+                "Tom Cruise"
+            ], 
+            "flags": 0, 
+            "guid": "yK-qoWeJZ(", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"matt-damon.jpg\" />", 
+                "Matt Damon"
+            ], 
+            "flags": 0, 
+            "guid": "Nnl9luTG-O", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"hugh-jackman.jpg\" />", 
+                "Hugh Jackman"
+            ], 
+            "flags": 0, 
+            "guid": "kPdl7jAZll", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"robert-downey-jr.jpeg\" />", 
+                "Robert Downey Jr."
+            ], 
+            "flags": 0, 
+            "guid": "dja]$@..y%", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"liam-neeson.jpg\" />", 
+                "Liam Neeson"
+            ], 
+            "flags": 0, 
+            "guid": "P|kVL03>hU", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"mel-gibson.jpg\" />", 
+                "Mel Gibson"
+            ], 
+            "flags": 0, 
+            "guid": "Gp*[()g=h+", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"harrison-ford.jpg\" />", 
+                "Harrison Ford"
+            ], 
+            "flags": 0, 
+            "guid": "M)dpLHym-^", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"woody-allen.jpeg\" />", 
+                "Woody Allen"
+            ], 
+            "flags": 0, 
+            "guid": "BGaK`OR[eT", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"steve-mcqueen.jpeg\" />", 
+                "Steve McQueen"
+            ], 
+            "flags": 0, 
+            "guid": "EcBV2Dk|#c", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"orson-welles.jpeg\" />", 
+                "Orson Welles"
+            ], 
+            "flags": 0, 
+            "guid": "EEo)yNq`c0", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"robert-redford.jpeg\" />", 
+                "Robert Redford"
+            ], 
+            "flags": 0, 
+            "guid": "su{mL?~=W$", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"james-dean.jpeg\" />", 
+                "James Dean"
+            ], 
+            "flags": 0, 
+            "guid": "x<]|5&/KY-", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"charlton-heston.jpeg\" />", 
+                "Charlton Heston"
+            ], 
+            "flags": 0, 
+            "guid": "Ep&@0sm<n8", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"gene-kelly.jpeg\" />", 
+                "Gene Kelly"
+            ], 
+            "flags": 0, 
+            "guid": "k>{4D0}(;;", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"robert-mitchum.jpg\" />", 
+                "Robert Mitchum"
+            ], 
+            "flags": 0, 
+            "guid": "jk&iJX5E<N", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"bill-murray.jpeg\" />", 
+                "Bill Murray"
+            ], 
+            "flags": 0, 
+            "guid": "Ay~_Z^Y;EM", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"samuel-l-jackson.jpeg\" />", 
+                "Samuel L. Jackson"
+            ], 
+            "flags": 0, 
+            "guid": "gGG%ktgYB&", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"jim-carrey.jpg\" />", 
+                "Jim Carrey"
+            ], 
+            "flags": 0, 
+            "guid": "mM-4)n_7)_", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"don-cheadle.jpeg\" />", 
+                "Don Cheadle"
+            ], 
+            "flags": 0, 
+            "guid": "m_)7LQESC>", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"martin-sheen.jpeg\" />", 
+                "Martin Sheen"
+            ], 
+            "flags": 0, 
+            "guid": "h!U?EiD{gk", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"alan-rickman.jpeg\" />", 
+                "Alan Rickman"
+            ], 
+            "flags": 0, 
+            "guid": "fmH^9me}gA", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"edward-g-robinson.jpeg\" />", 
+                "Edward G.Robinson"
+            ], 
+            "flags": 0, 
+            "guid": "E`fLw5>7HT", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"will-smith.jpg\" />", 
+                "Will Smith"
+            ], 
+            "flags": 0, 
+            "guid": "_W0NL[oX9", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"john-goodman.jpeg\" />", 
+                "John Goodman"
+            ], 
+            "flags": 0, 
+            "guid": "uK8kEfl`@F", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"buston-keaton.jpg\" />", 
+                "Buston Keaton"
+            ], 
+            "flags": 0, 
+            "guid": "yqP@F4]F;C", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }
+    ]
+}
