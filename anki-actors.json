@@ -62,6 +62,7 @@
         "henrey-fonda.jpg", 
         "alpacino.jpg", 
         "james-cagney.jpeg", 
+        "tim-robbins.jpg", 
         "ian-mckellen.jpg", 
         "clint-eastwood.jpg", 
         "geoffrey-rush.jpeg", 
@@ -146,6 +147,7 @@
         "edward-norton.jpeg", 
         "peter-sellers.jpeg", 
         "christopher-plummer.jpg", 
+        "william-hurt.jpg", 
         "robert-mitchum.jpg", 
         "james-dean.jpeg", 
         "Richard-Burton.jpg", 
@@ -1409,6 +1411,30 @@
             ], 
             "flags": 0, 
             "guid": "yqP@F4]F;C", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"tim-robbins.jpg\" />", 
+                "Tim Robbins"
+            ], 
+            "flags": 0, 
+            "guid": "BzOT{JTsav", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"william-hurt.jpg\" />", 
+                "William Hurt"
+            ], 
+            "flags": 0, 
+            "guid": "zrajI&#KBg", 
             "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
             "tags": []
         }
