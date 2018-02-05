@@ -254,11 +254,7 @@
                 ]
             ], 
             "sortf": 0, 
-            "tags": [
-                "Gellar", 
-                "Michelle", 
-                "Sarah"
-            ], 
+            "tags": [], 
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
@@ -1812,7 +1808,7 @@
             "data": "", 
             "fields": [
                 "<img src=\"john-hurt.jpeg\" />", 
-                ""
+                "John Hurt"
             ], 
             "flags": 0, 
             "guid": "Oqq%8,f}&g", 
