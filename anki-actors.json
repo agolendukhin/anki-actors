@@ -1162,18 +1162,6 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "<img src=\"johny-depp.jpg\" />", 
-                "Johny Depp"
-            ], 
-            "flags": 0, 
-            "guid": "hHu[(P`~&r", 
-            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
                 "<img src=\"benico-del-toro.jpeg\" />", 
                 "Benico Del Toro"
             ], 
@@ -1863,7 +1851,7 @@
             "data": "", 
             "fields": [
                 "<img src=\"john-hurt.jpeg\" />", 
-                ""
+                "John Hurt"
             ], 
             "flags": 0, 
             "guid": "Oqq%8,f}&g", 
@@ -2287,6 +2275,18 @@
             ], 
             "flags": 0, 
             "guid": "d*tL+2:{4Q", 
+            "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"johny-depp.jpg\" />", 
+                "Johny Depp"
+            ], 
+            "flags": 0, 
+            "guid": "hHu[(P`~&r", 
             "note_model_uuid": "27ec991c-09ac-11e8-8ace-3859f97cda63", 
             "tags": []
         }, 
